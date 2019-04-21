@@ -1,5 +1,5 @@
 ## Udemy.Course
-### Basics in Git & GitHub
+### introduction to Git & GitHub
 
 Name: IKBAL SBAAI
 First Assignment
