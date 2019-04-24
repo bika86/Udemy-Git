@@ -1,5 +1,5 @@
-## Udemy.Course
-### introduction to Git & GitHub
+##   IKBAL SBAAI- مبادرة نساء مبرمجات  
 
-Name: IKBAL SBAAI
-First Assignment
+1.  [دورة أساسيات بايثون](https://www.udemy.com/introduction-to-python)
+2.  [دورة أساسيات Git and GitHub](https://www.udemy.com/introduction-to-git-and-github)
+3.  [دورة أساسيات تصميم المواقع الالكترونية] (https://www.udemy.com/html-css-javascript-arabic)
